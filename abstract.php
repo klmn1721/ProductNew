@@ -1,5 +1,5 @@
-	<!DOCTYPE html>
-<html lang = "en">
+﻿	<!DOCTYPE html>
+<html language_lang = "en">
 <link rel="stylesheet" href = "style.css">
 <head>
 
