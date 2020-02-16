@@ -1,5 +1,6 @@
-﻿	<!DOCTYPE html>
-<html language_lang = "en">
+  <!DOCTYPE html>
+<html language_lang = "eu">
+
 <link rel="stylesheet" href = "style.css">
 <head>
 
